@@ -10,8 +10,14 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delegate Ex3", "Delegate Ex3\Delegate Ex3.csproj", "{C92D10E8-24AC-462E-A948-D090C152C86F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "First", "First", "{E6060F49-4035-48C0-8849-D371ABCB861B}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\Downloads\Семинар_3_01a_Делегаты, анонимные методы, лямбда выражения.pptx = ..\..\..\..\Downloads\Семинар_3_01a_Делегаты, анонимные методы, лямбда выражения.pptx
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Second", "Second", "{1FFF207A-B704-4752-9E09-020F97B384A0}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\Downloads\Семинар_3_01b_Делегаты, обратный вызов.pptx = ..\..\..\..\Downloads\Семинар_3_01b_Делегаты, обратный вызов.pptx
+	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delegate Ex1", "Delegate Ex1\Delegate Ex1.csproj", "{4DB1E6F2-116F-423F-A035-F9C85485ADF6}"
 EndProject

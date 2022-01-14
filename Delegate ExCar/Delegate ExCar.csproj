@@ -6,4 +6,8 @@
     <RootNamespace>Delegate_ExCar</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Cars\Cars.csproj" />
+  </ItemGroup>
+
 </Project>
