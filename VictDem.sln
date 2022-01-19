@@ -23,6 +23,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cars", "Cars\Cars.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate MySelf1 p2", "Delegate MySelf1 p2\Delegate MySelf1 p2.csproj", "{A1BA533D-FFEC-4147-9E02-41F9020668D4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate MySelf2 p2", "Delegate MySelf2 p2\Delegate MySelf2 p2.csproj", "{8388F6D7-6A11-4333-A19C-0B4918100876}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -61,6 +63,10 @@ Global
 		{A1BA533D-FFEC-4147-9E02-41F9020668D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1BA533D-FFEC-4147-9E02-41F9020668D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1BA533D-FFEC-4147-9E02-41F9020668D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8388F6D7-6A11-4333-A19C-0B4918100876}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8388F6D7-6A11-4333-A19C-0B4918100876}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8388F6D7-6A11-4333-A19C-0B4918100876}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8388F6D7-6A11-4333-A19C-0B4918100876}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
