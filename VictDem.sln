@@ -63,9 +63,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex1_2 Addapter", "Ex1_2 Add
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Eight", "Eight", "{1E27B7C2-165A-4DCC-857D-D616CF9E739C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex1 Thread", "Ex1 Thread\Ex1 Thread.csproj", "{297AD622-82CD-4560-B835-B7AE060B7894}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Thread Ex1", "Ex1 Thread\Thread Ex1.csproj", "{297AD622-82CD-4560-B835-B7AE060B7894}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex2 Thread", "Ex2 Thread\Ex2 Thread.csproj", "{60D1F512-00B3-41AB-9723-2892720AF6A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Thread Ex2", "Ex2 Thread\Thread Ex2.csproj", "{60D1F512-00B3-41AB-9723-2892720AF6A2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
